@@ -1,10 +1,10 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Caloriculator is a calorie conversion app for Android that allows the user to enter the number of calories to convert at the top and shows the number of minutes or repitions a 150 lb person needs to perform each exercise for to burn the specified number of calories. Alternatively, the user can enter a number of minutes/repetitions for an exercise and see the number of calories it would burn, as well as the equivalent number of minutes/repetitions for all the other exercises.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Meiling Zhai ([mmzhai@berkeley.edu](mailto:mmzhai@berkeley.edu))
 
 ## Demo Video
 
@@ -16,7 +16,5 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+* Android dev tools
+* stack overflow
