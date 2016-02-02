@@ -8,11 +8,14 @@ Meiling Zhai ([mmzhai@berkeley.edu](mailto:mmzhai@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See Introduction to Caloriculator, a Calorie Converter App  (https://youtu.be/5fbtGyPHoVU)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screen Shot 2016-01-31 at 11.14.33 PM.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screen Shot 2016-01-31 at 11.14.59 PM.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screen Shot 2016-01-31 at 11.15.15 PM.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screen Shot 2016-01-31 at 11.16.16 PM.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
